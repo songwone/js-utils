@@ -33,5 +33,9 @@
     "registry": "https://registry.npmjs.org/",
     "provenance": true
   },
-  "branches": ["master"]
+  "branches": ["master"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songwone/js-utils"
+  }
 }
